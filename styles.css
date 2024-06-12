@@ -17,7 +17,7 @@ p {
 .postcard {
     background: white;
     width: 400px;
-    height: 300px;
+    height: auto;
     margin: auto;
 }
 
